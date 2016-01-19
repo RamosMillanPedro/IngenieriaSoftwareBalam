@@ -1,0 +1,13 @@
+public class Hola{
+  public static void main(String[]ar){
+    try{
+    
+    System.out.println("Pedro Ramos Millán");
+    
+    }catch(exception er){
+    er.getMessage();
+    }
+  
+  }
+
+}
